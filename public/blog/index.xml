@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Crystal Lin Zhang</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Crystal Lin Zhang</description>
+    <generator>Hugo</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2025, Crystal Lin Zhang.</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>http://localhost:1313/first-post/</link>
+      <pubDate>Tue, 11 Feb 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/first-post/</guid>
+      <description>&lt;p&gt;Hello! If you&amp;rsquo;re reading this, you are one of the first viewers of my blog which I created about two days ago. I have zero programming knowledge or experience so this has all been very fun. Many thanks GPT-4o.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
